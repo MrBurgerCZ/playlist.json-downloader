@@ -1,2 +1,2 @@
 # playlist.json-downloader
-Easily download videos found in playlist.json
+playlist.json is used by Vimeo, you can find it in the network activity tab of DevTools.
